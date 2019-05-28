@@ -1,7 +1,10 @@
+import * from 'angular';
+
 interface testInter {
 // 1
 // 2
 // 3
+// 4
 }
 
 class testClass {
